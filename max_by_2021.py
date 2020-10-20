@@ -2,7 +2,7 @@ from datetime import date
 import requests
 import math
 
-username = 'a dba'
+username = 'fill this in with your username'
 lvl_99_exp = 13034431
 skills = ["Overall", "Attack", "Defence", "Strength", "Hitpoints", "Ranged", "Prayer", "Magic", "Cooking",
           "Woodcutting", "Fletching", "Fishing", "Firemaking", "Crafting", "Smithing", "Mining", "Herblore",
